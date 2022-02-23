@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/luan-calasans">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luan-calasans&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-calasans&langs_count=7&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=luan-calasans&repo=convoychat&theme=github_dark"/>
 </div>
 <h1>Tecnologias que compreendo :</h1>
 <div style="display: inline_block"><br>
