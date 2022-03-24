@@ -1,19 +1,20 @@
-<h1>Olá! Eu sou o Luan Calasans 👋</h1>
+<h1>Hi! My name is Luan Calasans 👋</h1>
  <div>
   <a href="https://github.com/luan-calasans">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luan-calasans&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-calasans&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<h1>Tecnologias que compreendo :</h1>
+<h1>Technologies I understand :</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<h1>Tecnologias que estou estudando :</h1>
+<h1>Technologies I'm Studying :</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
  <hr>
 <div> 
