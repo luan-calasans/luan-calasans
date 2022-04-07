@@ -6,12 +6,6 @@
 
 ### 😀 About me:
 
-<p>
-  <em>
-   I'm 18 years old, I'm from São Vicente (Brazil) and I'm trying to make a living as a developer.
-  </em>
-</p>
-
 - I’m currently learning React, Node, TypeScript and C#.
 - Becoming a Full Stack Developer
 - How to reach me: luancalasans8@gmail.com
