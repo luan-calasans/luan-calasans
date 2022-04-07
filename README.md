@@ -4,8 +4,6 @@
    Welcome to my page! 
 </h1>
 
-<p>Front-End Developer</p>
-
 ### 😀 About me:
 
 <p>
