@@ -7,7 +7,7 @@
 ### 😀 About me:
 
 - I'm Front End Developer
-- I’m currently learning React, Node, TypeScript and C#.
+- I’m currently learning React, Node, TypeScript and C#
 - Becoming a Full Stack Developer
 - How to reach me: luancalasans8@gmail.com
 
