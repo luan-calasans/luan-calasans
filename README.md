@@ -7,7 +7,6 @@
 ### 😀 About me:
 
 - I'm Front-End Developer
-- I’m currently learning React, Node, TypeScript and C#
 - Becoming a Full Stack Developer
 - How to reach me: luancalasans8@gmail.com
 
@@ -27,7 +26,6 @@
   <img align="center" alt="Luan-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
-  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  <hr>
 <div> 
