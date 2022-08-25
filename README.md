@@ -1,16 +1,16 @@
 <h1>
-   Hi! My name is Luan Calasans 👋
+   Olá! Meu nome é Luan Calasans 👋
    <br/> 
-   Welcome to my page! 
+   Seja bem-vindo(a)! 
 </h1>
 
-### 😀 About me:
+### 😀 Sobre mim:
 
-- I'm Front-End Developer
-- Becoming a Full Stack Developer
-- How to reach me: luancalasans8@gmail.com
+- Sou desenvolvedor Front-End
+- No momento estou cursando Técnico em Informática (ETEC) e Sistemas para Internet (FATEC)
+- Entre em contato: luancalasans8@gmail.com
 
-### 📈 My Stats
+### 📈 Estatísticas
 
  <div>
   <a href="https://github.com/luan-calasans">
@@ -18,7 +18,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-calasans&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
-### ⚡ Technologies
+### ⚡ Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
