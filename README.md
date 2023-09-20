@@ -1,4 +1,4 @@
-![image](https://github.com/luan-calasans/luan-calasans/assets/69552520/88766a66-c9c1-4efa-9663-3bae65ddd901)<h1>
+<h1>
    Olá! Meu nome é Luan Calasans 👋
    <br/> 
    Seja bem-vindo(a)! 
