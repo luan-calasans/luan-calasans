@@ -1,4 +1,4 @@
-<h1>
+![image](https://github.com/luan-calasans/luan-calasans/assets/69552520/88766a66-c9c1-4efa-9663-3bae65ddd901)<h1>
    Olá! Meu nome é Luan Calasans 👋
    <br/> 
    Seja bem-vindo(a)! 
@@ -6,9 +6,8 @@
 
 ### 😀 Sobre mim:
 
-- Sou desenvolvedor Front-End
-- No momento estou cursando Técnico em Informática (ETEC) e Sistemas para Internet (FATEC)
-- Entre em contato: luancalasans8@gmail.com
+- Estou cursando Sistemas para Internet (FATEC) e sou formado como Técnico em Informática (ETEC)
+- Entre em contato: luancalasans23@gmail.com
 
 ### 📈 Estatísticas
 
