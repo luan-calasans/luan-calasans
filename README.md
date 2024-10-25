@@ -6,7 +6,8 @@
 
 ### 😀 Sobre mim:
 
-- Estou cursando Sistemas para Internet (FATEC) e sou formado como Técnico em Informática (ETEC)
+- Sistemas para Internet (FATEC)
+- Técnico em Informática (ETEC)
 - Entre em contato: luancalasans23@gmail.com
 
 ### 📈 Estatísticas
@@ -29,8 +30,7 @@
   <img align="center" alt="Luan-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
  <hr>
-<div> 
-  <a href="https://instagram.com/luancalasans" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href = "mailto:luancalasans23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-calasans/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
