@@ -1,14 +1,11 @@
 <h1>
    Olá! Meu nome é Luan Calasans 👋
-   <br/> 
-   Seja bem-vindo(a)! 
 </h1>
 
-### 😀 Sobre mim:
+### 🎓 Formação:
 
 - Sistemas para Internet (FATEC)
 - Técnico em Informática (ETEC)
-- Entre em contato: luancalasans23@gmail.com
 
 ### 📈 Estatísticas
 
